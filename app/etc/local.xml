@@ -1,0 +1,7 @@
+<default>
+        <system>
+            <filesystem>
+                <var>{{ root_dir }}</var>
+            </filesystem>
+        </system>
+</default>
